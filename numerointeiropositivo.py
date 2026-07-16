@@ -20,5 +20,7 @@ media = soma / quantidade
 print("Soma:", soma)
 print("Média:", media)
 print("Maior número:", maior)
+
 else:
+
 print("Nenhum número positivo foi informado.")
