@@ -5,21 +5,21 @@ maior = 0
 while True:
 numero = int(input("Digite um número inteiro positivo: "))
 
-if numero < 0:
-break
+ if numero < 0:
+  break
 
-soma += numero
-quantidade += 1
+  soma += numero
+  quantidade += 1
 
-if numero > maior:
-maior = numero
+ if numero > maior:
+  maior = numero
 
 if quantidade > 0:
-media = soma / quantidade
+ media = soma / quantidade
 
-print("Soma:", soma)
-print("Média:", media)
-print("Maior número:", maior)
+ print("Soma:", soma)
+ print("Média:", media)
+ print("Maior número:", maior)
 
 else:
 
