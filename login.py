@@ -50,12 +50,12 @@ while True:
      
    elif opcao == "3":
      
-     print("[EM DESENVOLVIMENTO] - Função Pesquisar usuário ainda não implementada.")
+     print("[EM DESENVOLVIMENTO] - Função Remover usuário ainda não implementada.")
      input("ENTER para continuar...")
      
    elif opcao == "4":
      
-     print("[EM DESENVOLVIMENTO] - Função Pesquisar usuário ainda não implementada.")
+     print("[EM DESENVOLVIMENTO] - Função Listar usuário ainda não implementada.")
      input("ENTER para continuar...")
      
    elif opcao == "5":
